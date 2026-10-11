@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Architrana
+/src/backend/database.py      @Architrana
+/src/backend/routers/auth.py  @Architrana
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Architrana
